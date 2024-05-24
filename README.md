@@ -1,5 +1,5 @@
+# EX:2 RANK-OF-A-MATRIX
 Date:09-03-2024
-# RANK-OF-A-MATRIX
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
